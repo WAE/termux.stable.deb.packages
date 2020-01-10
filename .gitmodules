@@ -1,0 +1,6 @@
+[submodule "dists/stable/main/binary-i686"]
+	path = dists/stable/main/binary-i686
+	url = https://github.com/WAE/termux.stable.i686.deb.packages
+[submodule "dists/stable/main/binary-x86_64"]
+	path = dists/stable/main/binary-x86_64
+	url = https://github.com/WAE/termux.stable.x86_64.deb.packages
