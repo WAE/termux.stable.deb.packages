@@ -10,3 +10,6 @@
 [submodule "dists/stable/main/binary-arm"]
 	path = dists/stable/main/binary-arm
 	url = https://github.com/WAE/termux.stable.arm.deb.packages
+[submodule "dists/stable/main/binary-aarch64"]
+	path = dists/stable/main/binary-aarch64
+	url = https://github.com/WAE/termux.stable.aarch64.deb.packages
