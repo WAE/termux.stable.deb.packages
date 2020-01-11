@@ -7,3 +7,6 @@
 [submodule "dists/stable/main/binary-all"]
 	path = dists/stable/main/binary-all
 	url = https://github.com/WAE/termux.stable.all.deb.packages
+[submodule "dists/stable/main/binary-arm"]
+	path = dists/stable/main/binary-arm
+	url = https://github.com/WAE/termux.stable.arm.deb.packages
